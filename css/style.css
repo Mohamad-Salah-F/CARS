@@ -214,7 +214,7 @@ main{height: 70vh; margin-top: 50px;}
     opacity: 1;
 }
 section{
-    perspective: 600;
+    perspective: 600px;
 }
 
 /* ///////////////////////////////////////////////////// */
@@ -386,7 +386,7 @@ section{
     position: relative;
     perspective: 600;
     transform-style: preserve-3d;
-    transition: .8s;
+    transition:transform .8s;
     perspective: 600px;
     margin-bottom: 10px;
 }
